@@ -1,5 +1,5 @@
 Live:
-https://leskiewiczmichal.github.io/travel-journal/
+https://leskiewiczmichal.github.io/react-travel-journal/
 
 Credits:
     Mallorca photo:
